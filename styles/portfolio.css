@@ -140,7 +140,10 @@
          margin: 60px;
          
      }
-     
+     .img-fluid{
+        width: 560px;
+        height: 560px;
+     }
      .footer-email-link{ 
          display: block;
          text-align: center;
@@ -214,10 +217,7 @@
              padding:50px 20px;
          }
  
-         
- 
- 
-         .content .btn-branding{
+        .content .btn-branding{
              margin-bottom:50px;
              text-align: center;
              padding:10px 15px;
